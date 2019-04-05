@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6916506-139d-4278-b719-df1f1151ef82" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CarDealership/src/com/company/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CeaserCipher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CeaserCipherTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leapyear/Leapyear.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PingPong/PingPong.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cookie-recipe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happy-trails-travel-agency/CSS/agency.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happy-trails-travel-agency/city.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happy-trails-travel-agency/images/bora.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happy-trails-travel-agency/images/city.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happy-trails-travel-agency/images/resort.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happy-trails-travel-agency/images/safari.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happy-trails-travel-agency/safari.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happy-trails-travel-agency/travel-agency.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../happy-trails-travel-agency/tropical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-world" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pet-website.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pet-website/images/baby.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pet-website/images/cat.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pet-website/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resort-website/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resort-website/accomodation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resort-website/activities.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resort-website/contact-information.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resort-website/images/resort-2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resort-website/images/resort-fish.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resort-website/images/resort-food.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resort-website/images/resort-jetski.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resort-website/images/resort-restaurant.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resort-website/images/resort-room.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resort-website/images/resort-room2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resort-website/images/resort-room3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resort-website/images/resort-water.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resort-website/images/resort.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resort-website/pictures.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resort-website/resort.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resort-website/resort.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resort-website/travel-arrangements.html" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="com" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/CeaserCipher.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="18" selection-start-column="18" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/CeaserCipherTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/CeaserCipherTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="811" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CeaserCipher" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CeaserCipher" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CeaserCipher" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CeaserCipher" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CeaserCipher" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="CeaserCipher" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="CeaserCipher" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6916506-139d-4278-b719-df1f1151ef82" name="Default Changelist" comment="" />
+      <created>1554468846496</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554468846496</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="811" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.32962447" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Gradle" weight="0.3297568" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/CeaserCipher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CeaserCipherTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>main|com</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
