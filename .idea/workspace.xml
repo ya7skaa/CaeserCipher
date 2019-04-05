@@ -4,9 +4,9 @@
     <list default="true" id="d6916506-139d-4278-b719-df1f1151ef82" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../CarDealership/src/com/company/App.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/CeaserCipher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CeaserCipherTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Leapyear/Leapyear.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PingPong/PingPong.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CeaserCipherTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../cookie-recipe" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../happy-trails-travel-agency/CSS/agency.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../happy-trails-travel-agency/city.html" beforeDir="false" />
@@ -78,26 +78,7 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/CeaserCipher.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="18" selection-start-column="18" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/CeaserCipherTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -108,7 +89,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
