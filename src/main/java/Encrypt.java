@@ -8,7 +8,15 @@ public class Encrypt {
             {
                 char character =(char)(((int)story.charAt(i)+
                         shift-65)%26 + 65);
+                encResult.append(character);
             }
+            else
+            {
+                char character =(char)(((int)story.charAt(i)+
+                        shift-97)%26+97);
+                encResult.append(character);
+            }
+
         }
     }
 }
