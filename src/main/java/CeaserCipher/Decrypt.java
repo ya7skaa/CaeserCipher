@@ -1,8 +1,8 @@
 package CeaserCipher;
 
 public class Decrypt {
-    public static StringBuilder decrypter(String story, int shift) {
-        StringBuilder dncResult = new StringBuilder();
+    public static String decrypter(String story, int shift) {
+        String dncResult = "";
 
         if (shift > 26) {
             shift = shift % 26;
@@ -16,18 +16,18 @@ public class Decrypt {
                 char character = (char) (((int) story.charAt(i) -
                         shift - 65) % 26 + 65);
                 if(character <'A'){
-                    dncResult.append((char)( story.charAt(i) +(26-shift)));
+                    dncResult+=((char)( story.charAt(i) +(26-shift)));
                 } else {
-                    dncResult.append(character);
+                    dncResult+=(character);
                 }
 
             } else {
                 char character = (char) (((int) story.charAt(i) -
                         shift- 97) % 26 + 97);
                 if(character <'a'){
-                    dncResult.append((char)( story.charAt(i) +(26-shift)));
+                    dncResult+=((char)( story.charAt(i) +(26-shift)));
                 } else {
-                    dncResult.append(character);
+                    dncResult+=(character);
                 }
 
             }
