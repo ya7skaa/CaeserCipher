@@ -19,6 +19,15 @@ public class EncryptTest {
 
     }
 
+    @Test
+    public void encrypter_testencrypt_String(){
+        Encrypt encryptTest = new Encrypt();
+        String expectedOutput = "QEB";
+        assertEquals(expectedOutput, encryptTest.encrypter("THE", 23
+        ));
+
+    }
+
 
 
 }
