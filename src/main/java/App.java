@@ -1,3 +1,9 @@
+import CaesarCipher.Encrypt;
+import CeaserCipher.Decrypt;
+
+
+
+
 import java.util.Scanner;
 
 
@@ -9,9 +15,15 @@ public class App {
         System.out.println("Enter your secret key");
         int shift =myConsole.nextInt();
 
+        String encryptedString = Encrypt.encrypter(story,shift).toString();
+        String decryptedString = Decrypt.decrypter(encryptedString,shift).toString();
 
 //        Encrypt.encrypter("hello", 4);
-        System.out.println(Encrypt.encrypter(story,shift));
+        System.out.println("Here's your encrypted story");
+        System.out.println(encryptedString);
+
+        System.out.println("Here's your decrypted story");
+        System.out.println(decryptedString);
 
     }
 
