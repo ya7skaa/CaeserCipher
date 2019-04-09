@@ -23,7 +23,7 @@ public class Encrypt {
 
             } else {
                 char character = (char) (((int) story.charAt(i) +
-                        shift - 97) % 26 + 97);
+                        shift ));
                 if(character >'z'){
                     encResult += ((char)( story.charAt(i) -(26-shift)));
                 } else {
