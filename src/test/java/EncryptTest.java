@@ -16,7 +16,6 @@ public class EncryptTest {
         Encrypt encryptTest = new Encrypt();
         String expectedOutput = "bcd";
         assertEquals(expectedOutput, encryptTest.encrypter("abc", 1));
-
     }
 
     @Test

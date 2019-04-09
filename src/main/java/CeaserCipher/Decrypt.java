@@ -4,11 +4,11 @@ public class Decrypt {
     public static String decrypter(String story, int shift) {
         String dncResult = "";
 
-        if (shift > 26) {
-            shift = shift % 26;
-        } else if (shift < 0) {
-            shift = (shift % 26) + 26;
-        }
+//        if (shift > 26) {
+//            shift = shift % 26;
+//        } else if (shift < 0) {
+//            shift = (shift % 26) + 26;
+//        }
 
 
         for (int i = 0; i < story.length(); i++) {
