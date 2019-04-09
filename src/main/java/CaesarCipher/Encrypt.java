@@ -13,7 +13,7 @@ public class Encrypt {
         for (int i = 0; i < story.length(); i++) {
             if (Character.isUpperCase(story.charAt(i))) {
                 char character = (char) (((int) story.charAt(i) +
-                        shift - 65) % 26 + 65);
+                        shift));
                 if(character >'Z'){
                     encResult+=((char)( story.charAt(i) -(26-shift)));
                 } else {
