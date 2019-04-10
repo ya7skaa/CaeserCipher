@@ -15,8 +15,8 @@ public class App {
         System.out.println("Enter your secret key");
         int shift =myConsole.nextInt();
 
-        String encryptedString = Encrypt.encrypter(story,shift).toString();
-        String decryptedString = Decrypt.decrypter(encryptedString,shift).toString();
+        String encryptedString = Encrypt.encrypter(story,shift);
+        String decryptedString = Decrypt.decrypter(encryptedString,shift);
 
 //        Encrypt.encrypter("hello", 4);
         System.out.println("Here's your encrypted story");
